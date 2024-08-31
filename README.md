@@ -6,7 +6,7 @@
 
 | Chapter | Code |
 |---------|------|
-| 2       |  [Rcode Link]()    |
+| 2       | [Rcode Link](https://github.com/vkoul/econometrics/blob/main/wooldridge/wooldridge_chap2.R)|
 | 3       |      |
 | 4       |      |
 | 5       |      |
